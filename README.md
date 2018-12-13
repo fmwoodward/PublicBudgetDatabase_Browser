@@ -7,3 +7,6 @@ This project stacks the budget positions between 2000 and 2019 from the Public B
 The data are mannually packed into the xlsx workbook *OMB-PBDB_FY00-FY19.xlsx* with each tab corresponding to a fiscal year budget request.  
 
 The aggreate file is then manipulated using Python 2.7 scripts in a Jupyter Notebook working environment relying on pandas for manipulation and matplotlib or plotly for visualiztion.  The data for DoD are extracted and output to the file *OMB-PBDB-DoD.xlsx*.
+
+GDP deflator, the GDP (Chained) Price Index, found in the President's Budget submission, History [Table 10.1](https://www.govinfo.gov/app/details/BUDGET-2019-TAB/BUDGET-2019-TAB-11-1
+) is used to remove the effects of inflation, converting nominal dollars into real dollars.
