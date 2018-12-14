@@ -14,4 +14,4 @@ The data are manipulated using a Jupyter Notebook computational environment envi
 
 ### Resource Planning Trajectories
 
-DoD data in the file *OMB-PBDB-DoD.xlsx* is processed using the Jupyter Notebook **OMB_Trajectories** to compare Planned, Budgetd, and Enacted funding.
+DoD data in the file *OMB-PBDB-DoD.xlsx* is processed using the Jupyter Notebook **OMB_Trajectories** to compare Planned, Budgeted, and Enacted funding.
