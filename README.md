@@ -4,7 +4,7 @@ The U.S. federal government website [GovInfo](https://www.govinfo.gov/app/collec
 ### Data
 This project stacks the budget positions between 2000 and 2019 from the Public Budget Database in a single xlsx workbook (*OMB-PBDB_FY00-FY19.xlsx*) creating a dataset that allows for the comparison of planned spending to actual appropriations.  This project looks at both mandatory and discretionary budget authority across the whole of government.
 
-A GDP [deflator](), the GDP (Chained) Price Index, found in the President's Budget submission, History [Table 10.1](https://www.govinfo.gov/app/details/BUDGET-2019-TAB/BUDGET-2019-TAB-11-1
+A GDP deflator, the GDP (Chained) Price Index, found in the President's Budget submission, History [Table 10.1](https://www.govinfo.gov/app/details/BUDGET-2019-TAB/BUDGET-2019-TAB-11-1
 ) is used to remove the effects of inflation, converting nominal dollars into real dollars.
 
 An alternative to OMB’s economic assumptions in the President's Budget can be found in the most current 10-year economic projection accompanying [CBO’s Budget Outlook](https://www.cbo.gov/about/products/budget-economic-data#4).  This file also includes a projection of other useful deflators such as the employment cost index (ECI).  
