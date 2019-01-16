@@ -17,3 +17,7 @@ The data are manipulated using a Jupyter Notebook computational environment envi
 
 ## Resource Planning Trajectories
 DoD data in the file *OMB-PBDB-DoD.xlsx* is processed using the Jupyter Notebook **OMB_Trajectories** to compare Planned, Budgeted, and Enacted funding.  To compare planned or required base budget funding to enacted base budget funding, the nonbase funding is removed from total enacted funding using data found in Table 2.1 of the DoD National Defense Budget Estimates [Green Book](https://comptroller.defense.gov/Budget-Materials/).
+
+# Results!
+## There is a hole in the data set!  Data for the out-years of the FYDP are missing between 2006 and 2009 making the dataset unusable for Projected/Enacted analysis.
+It is still a very detailed set of data showing spending across the federal government 
